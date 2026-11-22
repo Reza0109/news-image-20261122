@@ -90,6 +90,7 @@ FONT = {
           ".#..."
           "#...."
           "#####"),
+    # Digit 0 is a dotted zero: the center dot keeps it distinct from the letter O at every scale.
     '0': (".###."
           "#...#"
           "#...#"
